@@ -371,6 +371,10 @@ g_ProjectsTable = {
 		Buildings = {ACADEMY},
 		Trigger = {Type = TRIGGER_DATE, Date = 19390101, ProbPerTurn = 15},
 	},
+	[PROJECT_D790] = {
+		Buildings = {ACADEMY},
+		Trigger = {Type = "date", Value = 19390101, ProbPerTurn = 15},
+	},
 	[PROJECT_BR690] = {
 		Buildings = {ACADEMY},
 		Trigger = {Type = TRIGGER_DATE, Date = 19390101, ProbPerTurn = 15},
